@@ -1,4 +1,4 @@
-# Hello i'm Ilana 👋, Welcome to my GitHub profile
+# Hi i'm Ilana 👋, Welcome to my GitHub profile
 
 ## 🚀 About me:
 
