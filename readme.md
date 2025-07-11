@@ -2,9 +2,9 @@
 
 ## 🚀 About me:
 
-- 🌱 I am 19 years old.
+- 🌱 I am 20 years old.
 - ⚡ have five years of experience and studies in robotics and programming.
-- 👩‍💻 I currently study at Infinity School and I am a Full Stack developer.
+- 👩‍💻 I currently study at analysis and development in UCSAL.
 - 📫 How to reach me: <a href="https://wa.me/5571984228529"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"></a>
 
 ## 🛠️ Skills
